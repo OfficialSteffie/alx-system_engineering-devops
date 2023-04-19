@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $Cc `$PATH | grep -o 'l/ | wc -| -l1
